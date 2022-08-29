@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <RootNamespace>Numerize</RootNamespace>
+    <PackageId>Numerize</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ivan Abad</Authors>
+    <Company>netmentor.es</Company>
+    <Description>Library convert plain english to numbers. </Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/ElectNewt/Numerize</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
